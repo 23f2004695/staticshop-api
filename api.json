@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "email": "23f2004695@ds.study.iitm.ac.in",
+    "version": "ed304aa9"
+  },
+  "products": [
+    {
+      "id": "prod-ed304aa9-001", "name": "Basic Item 1", "category": "books", "price": 245.17, "stock": 102, "rating": 4.4
+    },
+    {
+      "id": "prod-ed304aa9-002", "name": "Pro Item 2", "category": "electronics", "price": 37.37, "stock": 10, "rating": 1.3
+    },
+    {
+      "id": "prod-ed304aa9-003", "name": "Pro Item 3", "category": "sports", "price": 437.08, "stock": 20, "rating": 4.3
+    },
+    {
+      "id": "prod-ed304aa9-004", "name": "Standard Item 4", "category": "clothing", "price": 59.35, "stock": 81, "rating": 4.7
+    },
+    {
+      "id": "prod-ed304aa9-005", "name": "Standard Item 5", "category": "clothing", "price": 479.88, "stock": 85, "rating": 4.4
+    },
+    {
+      "id": "prod-ed304aa9-006", "name": "Premium Item 6", "category": "electronics", "price": 184.04, "stock": 79, "rating": 4.3
+    },
+    {
+      "id": "prod-ed304aa9-007", "name": "Standard Item 7", "category": "books", "price": 348.9, "stock": 44, "rating": 1.2
+    },
+    {
+      "id": "prod-ed304aa9-008", "name": "Standard Item 8", "category": "sports", "price": 440.9, "stock": 81, "rating": 1.5
+    },
+    {
+      "id": "prod-ed304aa9-009", "name": "Standard Item 9", "category": "books", "price": 326.13, "stock": 72, "rating": 1.6
+    },
+    {
+      "id": "prod-ed304aa9-010", "name": "Elite Item 10", "category": "home", "price": 447.49, "stock": 51, "rating": 3
+    },
+    {
+      "id": "prod-ed304aa9-011", "name": "Pro Item 11", "category": "electronics", "price": 400.77, "stock": 31, "rating": 4.8
+    },
+    {
+      "id": "prod-ed304aa9-012", "name": "Pro Item 12", "category": "clothing", "price": 70.74, "stock": 65, "rating": 2.7
+    },
+    {
+      "id": "prod-ed304aa9-013", "name": "Premium Item 13", "category": "books", "price": 448.47, "stock": 90, "rating": 1.3
+    },
+    {
+      "id": "prod-ed304aa9-014", "name": "Premium Item 14", "category": "sports", "price": 15.68, "stock": 140, "rating": 2.8
+    },
+    {
+      "id": "prod-ed304aa9-015", "name": "Premium Item 15", "category": "electronics", "price": 197.56, "stock": 95, "rating": 3.8
+    },
+    {
+      "id": "prod-ed304aa9-016", "name": "Premium Item 16", "category": "electronics", "price": 255.14, "stock": 196, "rating": 1.6
+    }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 4,
+      "inventoryValue": 104202.60
+    }
+  }
+}
